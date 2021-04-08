@@ -1,5 +1,7 @@
 # Prometheus Cloud Analyser
 
+**It is now part of https://github.com/grafana/cortex-tools**
+
 This repo contains a set of tools that can be run against your Grafana, Prometheus and Cortex clusters to analyse which metrics are actually being used and which metrics can be dropped.
 
 ## grafana-analyse 
